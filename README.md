@@ -1,3 +1,9 @@
+# Smart Spam Detection Assistant
+
+## Summary
+This project presents an idea for an AI-based spam detection system.
+The goal is to automatically classify emails as spam or legitimate using machine learning techniques.
+
 # building-ai-project
 Final project for Building AI course
 ## Description
